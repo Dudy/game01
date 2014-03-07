@@ -1,0 +1,30 @@
+{
+  "name": "game01",
+  "version": "0.0.0",
+  "description": "my game",
+  "main": "web.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Dudy/game01.git"
+  },
+  "keywords": [
+    "my",
+    "game"
+  ],
+  "author": "Dirk Podolak",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dudy/game01/issues"
+  },
+  "homepage": "https://github.com/Dudy/game01",
+  "dependencies": {
+    "logfmt": "^0.21.0",
+    "express": "^3.5.0"
+  },
+  "engines": {
+    "node": "0.10.x"
+  }
+}
